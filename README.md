@@ -2,7 +2,7 @@
 
 ## Índice  
 
-1.[Introducción](https://github.com/anamontejo95/nginx/blob/main/introduccion.md)  
+1.[Introducción](https://github.com/1804marcos/nginx/blob/main/introducci%C3%B3n)  
 
 2.[Comparativa con Apache](https://github.com/anamontejo95/nginx/blob/main/comparativa.md)  
 
