@@ -1,7 +1,13 @@
-# nginx
-## ¿Que es ginx?
-Es un servidor web de código abierto que, desde su éxito inicial como servidor web, ahora también es usado como proxy inverso, cache de HTTP, y balanceador de carga.
-## Comparativa con Apache
-El servidor de Apache tiene un sólo hilo que está asociado con una sola conexión. Por otro lado, Nginx tiene la capacidad de manejar miles de conexiones que se gestionan de forma simultánea. Esto reduce la memoria, aumenta la velocidad y mejora el rendimiento.
-## Instalacion
+# NGINX  
 
+## Índice  
+
+1.[Introducción](https://github.com/anamontejo95/nginx/blob/main/introduccion.md)  
+
+2.[Comparativa con Apache](https://github.com/anamontejo95/nginx/blob/main/comparativa.md)  
+
+3.[Instalación](https://github.com/anamontejo95/nginx/blob/main/instalacion.md)  
+
+4.[Casos prácticos](https://github.com/anamontejo95/nginx/blob/main/casopractico.md)  
+
+5.[Referencias](https://github.com/anamontejo95/nginx/blob/main/referencias.md)
