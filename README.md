@@ -4,7 +4,7 @@
 
 1.[Introducción](https://github.com/1804marcos/nginx/blob/main/introducci%C3%B3n.md)  
 
-2.[Comparativa con Apache](https://github.com/anamontejo95/nginx/blob/main/comparativa.md)  
+2.[Comparativa con Apache](https://github.com/1804marcos/nginx/blob/main/Comparativa.md)  
 
 3.[Instalación](https://github.com/anamontejo95/nginx/blob/main/instalacion.md)  
 
